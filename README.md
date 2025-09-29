@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Christen Borrero!
 
 <!--
 **christenb8/christenb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me:
+I am a second-year Computer Engineering major at UF. Right now, I am working on making a Personal Portfolio website to showcase my achievements and projects!
+
+## Skills:
+Java | Javascript | HTML/CSS | C++ | Python
