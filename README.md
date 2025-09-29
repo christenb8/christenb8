@@ -1,5 +1,5 @@
 ## Hello, I'm Christen Borrero!  ˖.𖥔 ݁ ˖ ⊹ ࣪ ˖ 
-![banner](clovers.jpeg)
+![banner](polkadots.jpg)
 
 <!--
 **christenb8/christenb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
